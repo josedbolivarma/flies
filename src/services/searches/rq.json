@@ -1,0 +1,36 @@
+{
+    "IsAlternateDates": false,
+    "IsGrouped": true,
+    "NonStop": false,
+    "airlineCode": "",
+    "class": "Y",
+    "country": "USA",
+    "currency": "USD",
+    "flightType": 1,
+    "includeBaggage": false,
+    "itaCode": 144038,
+    "itinerary": [
+        {
+            "countryCodeDestination": "CHL",
+            "countryCodeOrigin": "COL",
+            "departing": "2021-04-02",
+            "destination": "SCL",
+            "hour": "",
+            "origin": "BOG"
+        },
+        {
+            "countryCodeDestination": "COL",
+            "countryCodeOrigin": "CHL",
+            "departing": "2021-04-16",
+            "destination": "BOG",
+            "hour": "",
+            "origin": "SCL"
+        }
+    ],
+    "language": "ES",
+    "maxLongConnection": 1439,
+    "maximumStops": 0,
+    "minLongConnection": 780,
+    "passenger": [{"age": 0, "type": 1, "quantity": 1}],
+    "pcc": "9GRB"
+}
